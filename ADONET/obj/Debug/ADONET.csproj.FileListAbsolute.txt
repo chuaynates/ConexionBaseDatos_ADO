@@ -1,0 +1,12 @@
+C:\Users\Cristian\source\repos\ADONET\ADONET\bin\Debug\ADONET.exe.config
+C:\Users\Cristian\source\repos\ADONET\ADONET\bin\Debug\ADONET.exe
+C:\Users\Cristian\source\repos\ADONET\ADONET\bin\Debug\ADONET.pdb
+C:\Users\Cristian\source\repos\ADONET\ADONET\obj\Debug\ADONET.csprojAssemblyReference.cache
+C:\Users\Cristian\source\repos\ADONET\ADONET\obj\Debug\ADONET.Form1.resources
+C:\Users\Cristian\source\repos\ADONET\ADONET\obj\Debug\ADONET.Properties.Resources.resources
+C:\Users\Cristian\source\repos\ADONET\ADONET\obj\Debug\ADONET.csproj.GenerateResource.cache
+C:\Users\Cristian\source\repos\ADONET\ADONET\obj\Debug\ADONET.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\source\repos\ADONET\ADONET\obj\Debug\ADONET.exe
+C:\Users\Cristian\source\repos\ADONET\ADONET\obj\Debug\ADONET.pdb
+C:\Users\Cristian\source\repos\ADONET\ADONET\obj\Debug\ADONET.Form2.resources
+C:\Users\Cristian\source\repos\ADONET\ADONET\obj\Debug\ADONET.Login.resources
